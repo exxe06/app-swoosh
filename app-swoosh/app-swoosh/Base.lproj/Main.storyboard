@@ -175,7 +175,6 @@
                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
                                 <connections>
-                                    <action selector="nextBtn:" destination="Z1C-hU-RLb" eventType="touchUpInside" id="b5C-tL-2XR"/>
                                     <action selector="onNextTapped:" destination="Z1C-hU-RLb" eventType="touchUpInside" id="AWv-7f-1Y4"/>
                                 </connections>
                             </button>
